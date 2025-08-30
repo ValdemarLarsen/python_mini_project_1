@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "category": "Electronics",
+    "price": 12999.0,
+    "supplier": "Apple Denmark",
+    "in_stock": true,
+    "stock_quantity": 45
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "category": "Electronics",
+    "price": 8999.0,
+    "supplier": "Samsung Nordic",
+    "in_stock": true,
+    "stock_quantity": 32
+  },
+  {
+    "id": 3,
+    "name": "MacBook Pro 14\"",
+    "category": "Electronics",
+    "price": 24999.0,
+    "supplier": "Apple Denmark",
+    "in_stock": true,
+    "stock_quantity": 12
+  },
+  {
+    "id": 4,
+    "name": "Dell XPS 13",
+    "category": "Electronics",
+    "price": 15999.0,
+    "supplier": "Dell Denmark",
+    "in_stock": false,
+    "stock_quantity": 0
+  },
+  {
+    "id": 5,
+    "name": "Sony WH-1000XM5",
+    "category": "Electronics",
+    "price": 3499.0,
+    "supplier": "Sony Nordic",
+    "in_stock": true,
+    "stock_quantity": 67
+  },
+  {
+    "id": 6,
+    "name": "IKEA BILLY Reol",
+    "category": "Home",
+    "price": 399.0,
+    "supplier": "IKEA Danmark",
+    "in_stock": true,
+    "stock_quantity": 156
+  },
+  {
+    "id": 7,
+    "name": "Nespresso Vertuo",
+    "category": "Home",
+    "price": 1699.0,
+    "supplier": "Nespresso Denmark",
+    "in_stock": true,
+    "stock_quantity": 23
+  },
+  {
+    "id": 8,
+    "name": "Dyson V15 Detect",
+    "category": "Home",
+    "price": 5999.0,
+    "supplier": "Dyson Nordic",
+    "in_stock": true,
+    "stock_quantity": 18
+  },
+  {
+    "id": 9,
+    "name": "Royal Copenhagen Tallerken",
+    "category": "Home",
+    "price": 899.0,
+    "supplier": "Royal Copenhagen",
+    "in_stock": true,
+    "stock_quantity": 89
+  },
+  {
+    "id": 10,
+    "name": "Georg Jensen Lysestage",
+    "category": "Home",
+    "price": 2499.0,
+    "supplier": "Georg Jensen",
+    "in_stock": true,
+    "stock_quantity": 15
+  },
+  {
+    "id": 11,
+    "name": "Nike Air Max 270",
+    "category": "Fashion",
+    "price": 1299.0,
+    "supplier": "Nike Denmark",
+    "in_stock": true,
+    "stock_quantity": 78
+  },
+  {
+    "id": 12,
+    "name": "Adidas Ultraboost 22",
+    "category": "Fashion",
+    "price": 1599.0,
+    "supplier": "Adidas Denmark",
+    "in_stock": true,
+    "stock_quantity": 54
+  },
+  {
+    "id": 13,
+    "name": "GANNI Kjole",
+    "category": "Fashion",
+    "price": 2199.0,
+    "supplier": "GANNI",
+    "in_stock": false,
+    "stock_quantity": 0
+  },
+  {
+    "id": 14,
+    "name": "Mads Nørgaard Strik",
+    "category": "Fashion",
+    "price": 1299.0,
+    "supplier": "Mads Nørgaard",
+    "in_stock": true,
+    "stock_quantity": 34
+  },
+  {
+    "id": 15,
+    "name": "Kindle Paperwhite",
+    "category": "Books",
+    "price": 1299.0,
+    "supplier": "Amazon EU",
+    "in_stock": true,
+    "stock_quantity": 41
+  },
+  {
+    "id": 16,
+    "name": "Python Programming Book",
+    "category": "Books",
+    "price": 599.0,
+    "supplier": "Gyldendal",
+    "in_stock": true,
+    "stock_quantity": 28
+  },
+  {
+    "id": 17,
+    "name": "Data Science Handbook",
+    "category": "Books",
+    "price": 799.0,
+    "supplier": "Academic Press",
+    "in_stock": true,
+    "stock_quantity": 19
+  },
+  {
+    "id": 18,
+    "name": "PlayStation 5",
+    "category": "Gaming",
+    "price": 4999.0,
+    "supplier": "Sony Interactive",
+    "in_stock": false,
+    "stock_quantity": 0
+  },
+  {
+    "id": 19,
+    "name": "Nintendo Switch OLED",
+    "category": "Gaming",
+    "price": 2699.0,
+    "supplier": "Nintendo Nordic",
+    "in_stock": true,
+    "stock_quantity": 26
+  },
+  {
+    "id": 20,
+    "name": "Razer DeathAdder V3",
+    "category": "Gaming",
+    "price": 699.0,
+    "supplier": "Razer Europe",
+    "in_stock": true,
+    "stock_quantity": 73
+  },
+  {
+    "id": 21,
+    "name": "LEGO Creator Expert Set",
+    "category": "Toys",
+    "price": 1999.0,
+    "supplier": "LEGO Danmark",
+    "in_stock": true,
+    "stock_quantity": 37
+  },
+  {
+    "id": 22,
+    "name": "Bang & Olufsen Højtaler",
+    "category": "Electronics",
+    "price": 8999.0,
+    "supplier": "Bang & Olufsen",
+    "in_stock": true,
+    "stock_quantity": 8
+  },
+  {
+    "id": 23,
+    "name": "Hay Chair",
+    "category": "Home",
+    "price": 3299.0,
+    "supplier": "HAY",
+    "in_stock": true,
+    "stock_quantity": 22
+  },
+  {
+    "id": 24,
+    "name": "Ecco Sko",
+    "category": "Fashion",
+    "price": 1899.0,
+    "supplier": "ECCO",
+    "in_stock": true,
+    "stock_quantity": 45
+  },
+  {
+    "id": 25,
+    "name": "Marimekko Taske",
+    "category": "Fashion",
+    "price": 999.0,
+    "supplier": "Marimekko Nordic",
+    "in_stock": true,
+    "stock_quantity": 31
+  }
+]
