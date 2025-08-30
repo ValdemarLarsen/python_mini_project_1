@@ -1,6 +1,6 @@
 # Data Ingestion and Wrangling Project
 
-This project demonstrates data loading, cleaning, transformation, and visualization using Python with datasets in multiple formats.
+This project demonstrates data loading, cleaning, transformation, and visualization using Python with datasets in multiple formats. This project is mainly focused on getting key data out of the dataset.
 
 ## Project Structure
 
